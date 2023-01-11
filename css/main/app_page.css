@@ -1,0 +1,105 @@
+/* قسم التحميل */
+.download{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+@media (max-width:661px){
+    .download {
+        font-size: 15px;
+    }
+}
+@media (max-width:331px){
+    .download {
+        font-size: 13px;
+    }
+}
+.download a{
+    background-color: #10cab7;
+    padding: 10px 100px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    transition-duration: 1s;
+}
+.download a:hover{
+    background-color: #eee;
+    color: #10cab7!important;
+    transform:scale(1.1);
+}
+@media (max-width:661px){
+    .download a{
+        padding: 10px 50px;
+    }
+}
+@media (max-width:331px){
+    .download a{
+        padding: 10px 40px;
+
+    }
+}
+.download p{
+    margin: 0px;
+}
+/* قسم الصور */
+.images-container{
+    background-color: #eee;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 5%;
+}
+.images-container h1{
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+@media (max-width:661px){
+    .images-container h1{
+        font-size: 25px;
+    }
+}
+
+.images{
+    display: flex;
+    width: 100%;
+    overflow-x: scroll;
+    gap: 10px;
+}
+.images .item{
+    color: #0094ff;
+}
+.images .item img{
+    width: 200px;
+    height: 400px;
+    border-radius: 20px;
+}
+/* قسم الشرح */
+.features{
+    background-color: #eee;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 5%;
+}
+.features h1{
+    font-weight: bolder;
+    font-size: 35px;
+}
+.features p{
+    font-size: 23px;
+}
+@media (max-width:661px){
+    .features h1{
+        font-size: 25px;
+    }
+    .features p{
+        font-size: 15px;
+    }
+}
+
+.features p span{
+    margin-right:30px;
+}

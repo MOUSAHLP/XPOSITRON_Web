@@ -1,0 +1,76 @@
+nav {
+    width: 100%;
+    display: flex;
+    height: 54px;
+    top: 0px;
+    right: 0px;
+    position: fixed;
+    background: white;
+    box-shadow: 0px 0px 3px rgb(0 0 0 / 10%);
+    z-index: 100;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.tools {
+    display: flex;
+    flex-direction: row-reverse;
+}
+nav span {
+    margin-left: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav img {
+    max-width: 50px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+nav img.add {
+    max-width: 40px;
+}
+
+nav .sortingBox form {
+    position: absolute;
+    top: 54px;
+    right: 0px;
+    height: 0px;
+    width: 0px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    justify-content: flex-end;
+    background: #2196f3;
+    color: white;
+    gap: 10px;
+    padding: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+nav .sortingBox form.show {
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+}
+
+nav .sortingBox form button {
+    border: none;
+    background: white;
+    color: black;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+nav .sortId button {
+    outline: none;
+    border: none;
+    background-color: transparent;
+}

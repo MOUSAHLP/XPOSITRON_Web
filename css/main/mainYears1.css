@@ -1,0 +1,121 @@
+:root {
+    --yearsColor: #bce6ff;
+}
+
+section .years {
+    width: 70%;
+    display: flex;
+    background-color: var(--main-color);
+    margin: 40px auto;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 30px;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+section .years a {
+    text-decoration: none;
+}
+
+section .years .first {
+    display: flex;
+    align-items: center;
+    background-color: var(--yearsColor);
+    border-radius: 20px;
+    height: 80px;
+    color: white;
+    transition-duration: 0.5s;
+    justify-content: space-evenly;
+}
+
+@media (max-width:661px) {
+    section .years .first {
+        height: 100px;
+        width: 90%;
+        flex-direction: column-reverse;
+        border-radius: 30px;
+        justify-content: normal;
+    }
+    section .years .first img {
+        position: relative;
+        bottom: 10px;
+    }
+}
+
+section .years .gridYears {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    margin: 40px 0 20px;
+    gap: 40px;
+}
+
+section .second,
+section .third,
+section .fourth,
+section .fifth {
+    display: flex;
+    flex-basis: 45%;
+    color: white;
+    background-color: var(--yearsColor);
+    border-radius: 30px;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-evenly;
+    transition-duration: 0.5s;
+}
+
+@media (max-width:661px) {
+    section .second,
+    section .third,
+    section .fourth,
+    section .fifth {
+        width: 90%;
+        height: 100px;
+        flex-basis: auto;
+    }
+}
+
+section .first:hover,
+section .second:hover,
+section .third:hover,
+section .fourth:hover,
+section .fifth:hover {
+    transform: scale(1.05);
+    background-color: #2d82b5;
+    font-size: 35px;
+}
+section .disabled{
+    background-color: rgba( 60 80 90 /0.7);
+    pointer-events: none;
+}
+section .second:hover img,
+section .third:hover img,
+section .fourth:hover img,
+section .fifth:hover img {
+    width: 90px;
+}
+
+@media (max-width:661px) {
+    section .first:hover img,
+    section .second:hover img,
+    section .third:hover img,
+    section .fourth:hover img,
+    section .fifth:hover img {
+        width: 70px;
+    }
+}
+
+section .years img {
+    width: 60px;
+    transition-duration: 0.5s;
+}
+
+section .years .gridYears img {
+    position: relative;
+    bottom: 30px;
+}

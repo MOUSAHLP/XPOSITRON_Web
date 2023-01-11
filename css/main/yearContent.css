@@ -1,0 +1,306 @@
+section{
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+}
+
+section .semester{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 50px auto;
+    background-color: var(--secondary-color);
+    position: relative;
+    width: 60%;
+    height: 100px;
+    font-size: 50px;
+    color: black;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    box-shadow: 7px 7px 30px 0px var(--secondary-color);
+}
+section .semester::before {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-width: 20px;
+    border-color: var(--secondary-color) transparent transparent var(--secondary-color);
+    border-style: solid;
+    position: absolute;
+    right: 0px;
+    bottom: -40px;
+}
+section .semester::after {
+    content: '';
+    width: 0px;
+    height: 0px;
+    border-width: 20px;
+    border-color: var(--secondary-color) var(--secondary-color) transparent transparent;
+    border-style: solid;
+    position: absolute;
+    left: 0px;
+    bottom: -40px;
+}
+
+@media (max-width:661px) {
+    section .semester {
+        height: 70px;
+        font-size: 35px;
+        margin: 30px auto;
+    }
+    section .semester::before ,
+    section .semester::after {
+        border-width: 15px;
+        bottom: -30px;
+    }
+}
+
+section .article{
+    width: 50%;
+    margin: 0 auto;
+    transform: scale(0);
+    transition-duration: 0.7s;
+}
+
+@media (max-width:661px) {
+    section .article{
+        width: 70%;
+    }
+}
+
+section .article .title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+
+section .article .title h1{
+    background-color: var(--secondary-color);
+    text-align: center;
+    display: flex;
+    height: 150px;
+    width: 90%;
+    color: black;
+    border-radius: 10px 10px 10px 10px;
+    z-index: 1;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0px;
+    box-shadow: 7px 7px 30px 0px var(--secondary-color);
+    transition-duration: 0.5s;
+    transition-delay: 0.2s;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    left: 100px;
+    top: 45px;
+    cursor: pointer;
+}
+section .article .title h1.show{
+    box-shadow: none;
+    height: 90px;
+    width: 100%;
+}
+
+@media (max-width:661px) {
+    section .article .title h1{
+        left: 40px;
+        height: 100px;
+        font-size: 22px;
+    }
+    section .article .title h1.show{
+        width: 90%;
+        height: 80px;
+    }
+}
+
+@media (max-width:350px) {
+    section .article .title h1{
+        width: 95%;
+        height: 80px;
+        font-size: 22px;
+    }
+    section .article .title h1.show{
+        width: 95%;
+    }
+}
+
+section .article .title .arrow{
+    width: 75px;
+    position: absolute;
+    right: 20px;
+    transition-duration: 1s;
+}
+
+@media (max-width:661px) {
+    section .article .title .arrow{
+        width: 50px;
+    }
+}
+
+@media (max-width:350px) {
+    section .article .title .arrow{
+        width: 40px;
+    }
+}
+
+section .article .title .image{
+    width: 120px;
+    position: absolute;
+    right: 85%;
+    top: 50%;
+    transition-duration: 1s;
+}
+section .article .title .image.show{
+    width: 90px;
+}
+
+@media (max-width:661px) {
+    section .article .title .image{
+        width: 70px;
+        font: 10px ICON;
+    }
+}
+
+@media (max-width:350px) {
+    section .article .title .image{
+        width: 70px;
+        top: 55%;
+        font: 8px ICON;
+    }
+    section .article .title .image.show{
+        width: 80px;
+    }
+}
+
+section .article .content{
+    background-color: var(--main-color);
+    color: white;
+    height: 0px;
+    font-size: 30px;
+    overflow: hidden;
+    border-radius: 20px;
+    padding: 0px;
+    font-weight: 500;
+    transition-duration: 1s;
+}
+section .article .content.show {
+    height: auto;
+    padding: 70px 30px 20px;
+}
+section .article .content p{
+    cursor: pointer;
+}
+@media (max-width:661px) {
+    section .article .content{
+        font-size: 22px;
+    }
+    section .article .content.show {
+        padding: 60px 20px 10px;
+    }
+}
+
+@media (max-width:350px) {
+    section .article .content{
+        font-size: 20px;
+    }
+    section .article .content.show {
+        padding: 50px 15px 8px;
+    }
+}
+
+section .article .content .download{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+section .article .content .download p{
+    font-size: 35px;
+    font-weight: bold;
+    flex-basis: 100%;
+    text-align: center;
+    /* font-family: serif; */
+    margin: 0px auto;
+}
+
+section .article .content .download a{
+    text-decoration: none;
+    color: white;
+    flex-basis: 43%;
+    font-size: 24px;
+    background-color: #10cab7;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    transition-duration:0.5s ;
+}
+
+section .article .content .download a:hover{
+    color: var(--secondary-color);
+    background-color: white;
+    transform: scale(1.1);
+}
+
+@media (max-width:661px) {
+    section .article .content .download p{
+        font-size: 30px;
+    }
+    section .article .content .download a{
+        font-size: 18px;
+    }
+}
+.up{
+    position: fixed;
+    bottom: 80px;
+    right: -150px;
+    transform: rotate(270deg);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+.up.show{
+    right: 10px;
+    transform: rotate(0deg);
+}
+
+.up img{
+    width: 80px;
+}
+
+@media (max-width:661px) {
+    .up{
+        bottom: 20px;
+    }
+    .up img{
+        width: 50px;
+    }
+}
+@keyframes signupdone {
+    0%{
+        top: 0px;
+    }
+    100%{
+        top: 70px;
+    }
+}
+.secondcheck{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px auto 0;
+    background-color: var(--main-color);
+    color: white;
+    font-size: 30px;
+    width: 80%;
+    border-radius: 30px;
+}

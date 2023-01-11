@@ -1,0 +1,77 @@
+
+header{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 70px 0 0 0;
+}
+
+header .yearHeader{
+    background-image: url(../../images/wave.jpg);
+    background-size: cover;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+/* for tablet */
+@media (max-width:991px) {
+    header{
+    margin: 70px 0 ;
+    }
+    header .yearHeader{
+        background-size: auto;
+    }
+}
+
+/* for mobiles */
+@media (max-width:661px) {
+    header .yearHeader{
+        background-size: 600px;
+    }
+}
+
+header .yearHeader strong {
+font-size: 60px;
+font-family: serif;
+color: gold;
+position: relative;
+top: 0%;
+}
+
+header .yearHeader p {
+    font-size: 40px;
+    color: lightblue;
+    position: relative;
+    top: 0%;
+}
+
+@media (max-width:661px) {
+    header .yearHeader strong {
+        top: -15%;
+        font-size: 40px;
+    }
+    header .yearHeader p {
+        top: -10%;
+        font-size: 30px;
+    }
+}
+
+header img {
+    width: 200px;
+    margin: 30px auto 0;
+    
+}
+
+@media (max-width:991px) {
+    header img {
+        width: 150px;
+        margin: -45px auto;
+    }
+}
+@media (max-width:661px) {
+    header img {
+        width: 120px;
+    }
+}

@@ -1,0 +1,512 @@
+APIKey :
+
+AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+
+ر1 محاضرات
+https://www.googleapis.com/drive/v3/files/1XKXx_WH5NQOeUkGknmmiiyKpHBexF_yU?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+ر1 دورات
+https://www.googleapis.com/drive/v3/files/1XAkK_sFVgrfi0eBRXxnwHw4qta7vMPuQ?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+ر1 كتب
+https://www.googleapis.com/drive/v3/files/1XG_GW1HtUGzvYzGb3QzGIV7qcXPWu_8P?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+دورات فيزيا
+https://www.googleapis.com/drive/v3/files/1Y2yOk_9WXEKb5BlQQt6BKf9NpT74BWtx?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+كتب فيزيا
+https://www.googleapis.com/drive/v3/files/1YZjLUmH3Vb0YqlML7WM2Q4CGzCF5LZKl?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+محاضرات فيزيا
+https://www.googleapis.com/drive/v3/files/1Y_Knwhxp86qktQ1rlyol3GB4TqQpl_iQ?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+مخبر فيزيا
+https://www.googleapis.com/drive/v3/files/1Yb4WsrAnsFTwpZWaMiDQhlUk74nbnE5x?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+ملحق ف١ ضوئية 
+https://www.googleapis.com/drive/v3/files/1YcNWlbh8tAmXBrRK2iYXzAqxGJSR-KCp?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+ملاحق ميكانيك  هندسي 
+https://www.googleapis.com/drive/v3/files/1ZCoDO15-ScTYQdgEy7qcbCA2Ql1j5r35?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+مسائل اضافية ميكانيك
+https://www.googleapis.com/drive/v3/files/1oY-yhA6VX0Ykl7_N1Bv3Yx43hmB8T19w?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+كتاب ميكانيك 
+https://www.googleapis.com/drive/v3/files/1ZBO8lUqmf9bVHXJwuovYS7nNp0gCarwd?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات ميكانيك 
+https://www.googleapis.com/drive/v3/files/1Z1ZU9aZR1oBA1og_oMwleVhSxJ_C1bwo?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+نوطة رسم 
+https://www.googleapis.com/drive/v3/files/1oZNteiXy-MNs1fJt01ayealYOAbVsW4z?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+حل نوطة 
+https://www.googleapis.com/drive/v3/files/1ZIN5WxPb4RS3rg-DplrqJZ8Z73VI57zR?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات رسم 
+https://www.googleapis.com/drive/v3/files/1ZRxNlN0kEJzturwuNtZM6bs6Zsmb891M?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+ملاحق انكليزي ١
+https://www.googleapis.com/drive/v3/files/1ZjmEBV7Xmcr40HgozthLk5kO70sHlNhc?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات انكليزي ١
+https://www.googleapis.com/drive/v3/files/1ZiG-MlMwVoW08sLPZ3nTMLeT4G8y-Jf_?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+نوطة الثقافة 
+https://www.googleapis.com/drive/v3/files/1ZySvMpFl62Q_WSjvcbe4dXzELr5cVBg6?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات ثقافة
+https://www.googleapis.com/drive/v3/files/1ZtxXaQHMQ1SO8h_SJV8IosEfvvK2_2QN?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+ملاحق ثقافة
+https://www.googleapis.com/drive/v3/files/1ZuYhP8sx0Xda0gnUWPbvoz4ozmy8WoMD?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+ملفات اضافية ثقافة
+https://www.googleapis.com/drive/v3/files/1ZvYSQWKq1RVLtMdp6BfXV8A0YeJipiSM?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+ملاحق عربي
+https://www.googleapis.com/drive/v3/files/1ZdS0waqZW2aZcyBisAGsFYTfVg7nLGwo?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات عربي
+https://www.googleapis.com/drive/v3/files/1ZXpV19T58I6VFJvW6AZwNKuR2jN_BUqU?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+محاضرات ر٢ 
+https://www.googleapis.com/drive/v3/files/1aMqhwvMBZxup6DkiBYvYK28RibOT3Hnv?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+كتاب ر٢ 
+https://www.googleapis.com/drive/v3/files/1aM1T_F5cJT-z9Z1DMJEWFoOJ8izd7hLo?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات ر٢
+https://www.googleapis.com/drive/v3/files/1aLFJlN2N3jNnIpCDYatqBVfdXBxWagFX?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+نوطة ر٢
+https://www.googleapis.com/drive/v3/files/1aMtWYYAmvm_7D38VqCR6vOtECOd6abYd?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+محاضرات ف٢
+https://www.googleapis.com/drive/v3/files/1bnsE6GE--TyxPO-v1cRSGai7i1DcL8hC?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+كتاب ف٢
+https://www.googleapis.com/drive/v3/files/1bljjC6sd65jFiPVj7xNbiiqCmlzlWEBz?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات ف٢
+https://www.googleapis.com/drive/v3/files/1bbSePEOkfsoKiP1DYlEjWWZ1BaZaOM-u?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+تجارب مخبر ف٢
+https://www.googleapis.com/drive/v3/files/1bKJdNM8pm6xVnBGVs4cq0RYSSNPp68rz?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+
+نوط اسس 
+https://www.googleapis.com/drive/v3/files/1c-yysn2SCTk6mx8WNXBKTfFB55g5aB-c?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات اسس 
+https://www.googleapis.com/drive/v3/files/1bxUXJacCY22VW4xrqGkQNgzYTUE393tM?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+مخبر اسس
+https://www.googleapis.com/drive/v3/files/1bzT9GqpRXFZIhd5wLGOqW0vyi-QN7YdV?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+محاضرات مدخل 
+https://www.googleapis.com/drive/v3/files/1f7RXrg7iijd5QlRbx6q13IVaQAcTqWMc?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات مدخل
+https://www.googleapis.com/drive/v3/files/1f2EmrWbGoGQ2t955IhY6SiyAHQ-eluEW?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+مدخل عملي 
+https://www.googleapis.com/drive/v3/files/1fAj0pOvNKoun7ONyD_Tt1R6TOfPtZV-V?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+ورشات 
+https://www.googleapis.com/drive/v3/files/1euq18yNj-9EcvlgLeUMT_wR-DbFhJhXR?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+محاضرات كيميا 
+
+https://www.googleapis.com/drive/v3/files/1cVMmkCnWn5FpvpvkLtYfjiqSG1xS8RYP?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+كتب كيميا
+https://www.googleapis.com/drive/v3/files/1cUspAis-1bymu-rH14yLkV-dPRvk4rKu?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات كيميا
+https://www.googleapis.com/drive/v3/files/1cTW7LONdMbmI6uJXnl6pRJ0bl4pemHOg?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+مخبر كيميا 
+https://www.googleapis.com/drive/v3/files/1cW4cplqXNxt-oYaiSH1kwHgtI5pbt652?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+ملاحق انكليزي٢
+https://www.googleapis.com/drive/v3/files/1cNHubsKtBpPbqwvqTHm96r2z_-5lN-hO?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+دورات انكليزي
+https://www.googleapis.com/drive/v3/files/1elEIKJW28sZuu4YX2SJvFLrmhK16yyc2?alt=media&key=AIzaSyDdV_weFvjNtVS957um4c6WkgJnRK-rUQ0
+
+
+
+
+
+
+
+
+//روابط تحميل بدون api
+
+
+
+
+دورات ر١
+1P07x25g_OWTCnFoZNweArbThOpoF5PCO 
+
+https://drive.google.com/u/0/uc?id=1P07x25g_OWTCnFoZNweArbThOpoF5PCO&export=download
+
+كتاب ر١
+1XG_GW1HtUGzvYzGb3QzGIV7qcXPWu_8P
+
+https://drive.google.com/u/0/uc?id=1XG_GW1HtUGzvYzGb3QzGIV7qcXPWu_8P&export=download
+
+محاضرات ر١
+1P0HKeSdX9GAwFbRu8rymKvXRCL8cBmTc 
+
+https://drive.google.com/u/0/uc?id=1P0HKeSdX9GAwFbRu8rymKvXRCL8cBmTc&export=download
+
+
+دورات ف١
+
+1RRXaAOjxWK9gH2lANe8exJd7bw_Jv-mJ 
+
+https://drive.google.com/u/0/uc?id=1RRXaAOjxWK9gH2lANe8exJd7bw_Jv-mJ&export=download
+
+
+محاضرات ف١
+
+1Y_Knwhxp86qktQ1rlyol3GB4TqQpl_iQ
+
+https://drive.google.com/u/0/uc?id=1Y_Knwhxp86qktQ1rlyol3GB4TqQpl_iQ&export=download
+
+
+مخبر ف١
+1Yb4WsrAnsFTwpZWaMiDQhlUk74nbnE5x
+
+https://drive.google.com/u/0/uc?id=1Yb4WsrAnsFTwpZWaMiDQhlUk74nbnE5x&export=download
+
+
+ملحق ف١ ضوئية 
+1RSeo6oyina3_lKFhr_aUUj_X5mKLBB4I
+
+https://drive.google.com/u/0/uc?id=1RSeo6oyina3_lKFhr_aUUj_X5mKLBB4I&export=download
+
+
+كتب ف١
+1YZjLUmH3Vb0YqlML7WM2Q4CGzCF5LZKl
+
+https://drive.google.com/u/0/uc?id=1YZjLUmH3Vb0YqlML7WM2Q4CGzCF5LZKl&export=download
+
+
+ملاحق ميكانيك  هندسي 
+
+1ZCoDO15-ScTYQdgEy7qcbCA2Ql1j5r35
+
+https://drive.google.com/u/0/uc?id=1ZCoDO15-ScTYQdgEy7qcbCA2Ql1j5r35&export=download
+
+
+مسائل اضافية ميكانيك 
+
+1oY-yhA6VX0Ykl7_N1Bv3Yx43hmB8T19w
+
+https://drive.google.com/u/0/uc?id=1oY-yhA6VX0Ykl7_N1Bv3Yx43hmB8T19w&export=download
+
+
+كتاب ميكانيك 
+1ZBO8lUqmf9bVHXJwuovYS7nNp0gCarwd
+
+https://drive.google.com/u/0/uc?id=1ZBO8lUqmf9bVHXJwuovYS7nNp0gCarwd&export=download
+
+
+دورات ميكانيك 
+1T7-XSYXoPp7cryXk8flWZe-AY22qz215
+
+https://drive.google.com/u/0/uc?id=1T7-XSYXoPp7cryXk8flWZe-AY22qz215&export=download
+
+
+نوطة رسم 
+1oZNteiXy-MNs1fJt01ayealYOAbVsW4z
+
+https://drive.google.com/u/0/uc?id=1oZNteiXy-MNs1fJt01ayealYOAbVsW4z&export=download
+
+
+حل نوطة 
+1ZIN5WxPb4RS3rg-DplrqJZ8Z73VI57zR
+
+https://drive.google.com/u/0/uc?id=1ZIN5WxPb4RS3rg-DplrqJZ8Z73VI57zR&export=download
+
+
+دورات رسم 
+1ZRxNlN0kEJzturwuNtZM6bs6Zsmb891M
+
+https://drive.google.com/u/0/uc?id=1ZRxNlN0kEJzturwuNtZM6bs6Zsmb891M&export=download
+
+
+ملاحق انكليزي ١
+1ZjmEBV7Xmcr40HgozthLk5kO70sHlNhc
+
+https://drive.google.com/u/0/uc?id=1ZjmEBV7Xmcr40HgozthLk5kO70sHlNhc&export=download
+
+
+دورات انكليزي ١
+1ZiG-MlMwVoW08sLPZ3nTMLeT4G8y-Jf_
+
+https://drive.google.com/u/0/uc?id=1ZiG-MlMwVoW08sLPZ3nTMLeT4G8y-Jf_&export=download
+
+
+نوطة الثقافة 
+
+1ZySvMpFl62Q_WSjvcbe4dXzELr5cVBg6
+
+https://drive.google.com/u/0/uc?id=1ZySvMpFl62Q_WSjvcbe4dXzELr5cVBg6&export=download
+
+محاضرات ثقافة
+
+1TZRrZqDS759OazR8rNWiDgyLTvYDl7yv
+
+https://drive.google.com/u/0/uc?id=1TZRrZqDS759OazR8rNWiDgyLTvYDl7yv&export=download
+
+
+دورات ثقافة
+
+1ZtxXaQHMQ1SO8h_SJV8IosEfvvK2_2QN
+
+https://drive.google.com/u/0/uc?id=1ZtxXaQHMQ1SO8h_SJV8IosEfvvK2_2QN&export=download
+
+
+ملاحق ثقافة
+
+1ZuYhP8sx0Xda0gnUWPbvoz4ozmy8WoMD
+
+https://drive.google.com/u/0/uc?id=1ZuYhP8sx0Xda0gnUWPbvoz4ozmy8WoMD&export=download
+
+
+ملفات اضافية ثقافة
+
+1ZvYSQWKq1RVLtMdp6BfXV8A0YeJipiSM
+
+https://drive.google.com/u/0/uc?id=1ZvYSQWKq1RVLtMdp6BfXV8A0YeJipiSM&export=download
+
+
+ملاحق عربي
+
+1ZdS0waqZW2aZcyBisAGsFYTfVg7nLGwo
+
+https://drive.google.com/u/0/uc?id=1ZdS0waqZW2aZcyBisAGsFYTfVg7nLGwo&export=download
+
+
+دورات عربي
+
+1T_bnYOwjRrjR-11uAt3wbFeTbz7-uTaV
+
+https://drive.google.com/u/0/uc?id=1T_bnYOwjRrjR-11uAt3wbFeTbz7-uTaV&export=download
+
+
+محاضرات ر٢ 
+
+1aMqhwvMBZxup6DkiBYvYK28RibOT3Hnv
+
+https://drive.google.com/u/0/uc?id=1aMqhwvMBZxup6DkiBYvYK28RibOT3Hnv&export=download
+
+
+كتاب ر٢ 
+
+1aM1T_F5cJT-z9Z1DMJEWFoOJ8izd7hLo
+
+https://drive.google.com/u/0/uc?id=1aM1T_F5cJT-z9Z1DMJEWFoOJ8izd7hLo&export=download
+
+
+دورات ر٢
+
+1VyXH_AhKE7MGjn8JFZl_nD573wTispOA
+
+https://drive.google.com/u/0/uc?id=1VyXH_AhKE7MGjn8JFZl_nD573wTispOA&export=download
+
+
+نوطة ر٢
+
+1VytG7iObwneUNVLA6eJU8ZGut1Sn3iRc
+
+https://drive.google.com/u/0/uc?id=1VytG7iObwneUNVLA6eJU8ZGut1Sn3iRc&export=download
+
+
+محاضرات ف٢
+
+1bnsE6GE--TyxPO-v1cRSGai7i1DcL8hC
+
+https://drive.google.com/u/0/uc?id=1bnsE6GE--TyxPO-v1cRSGai7i1DcL8hC&export=download
+
+
+كتاب ف٢
+
+1bljjC6sd65jFiPVj7xNbiiqCmlzlWEBz
+
+https://drive.google.com/u/0/uc?id=1bljjC6sd65jFiPVj7xNbiiqCmlzlWEBz&export=download
+
+
+دورات ف٢
+
+1WueuX5DoT_aCjfcbfNyrDAwvhxsu4yk6
+
+https://drive.google.com/u/0/uc?id=1WueuX5DoT_aCjfcbfNyrDAwvhxsu4yk6&export=download
+
+
+تجارب مخبر ف٢
+
+1bKJdNM8pm6xVnBGVs4cq0RYSSNPp68rz
+
+https://drive.google.com/u/0/uc?id=1bKJdNM8pm6xVnBGVs4cq0RYSSNPp68rz&export=download
+
+
+نوط اسس 
+
+1VpMtrxBHGXxzMcsVOC9wTDu4rbOjlFcK
+
+https://drive.google.com/u/0/uc?id=1VpMtrxBHGXxzMcsVOC9wTDu4rbOjlFcK&export=download
+
+
+دورات اسس 
+
+1VkhbqBsHuP4I9OZPmqLjQSWr2TBodSRS
+
+https://drive.google.com/u/0/uc?id=1VkhbqBsHuP4I9OZPmqLjQSWr2TBodSRS&export=download
+
+
+مخبر اسس
+
+1bzT9GqpRXFZIhd5wLGOqW0vyi-QN7YdV
+
+https://drive.google.com/u/0/uc?id=1bzT9GqpRXFZIhd5wLGOqW0vyi-QN7YdV&export=download
+
+
+محاضرات مدخل 
+
+1f7RXrg7iijd5QlRbx6q13IVaQAcTqWMc
+
+https://drive.google.com/u/0/uc?id=1f7RXrg7iijd5QlRbx6q13IVaQAcTqWMc&export=download
+
+
+دورات مدخل
+
+1XsZrpYCPk3ch_SlkivZd_VtnQgHwLJam 
+
+https://drive.google.com/u/0/uc?id=1XsZrpYCPk3ch_SlkivZd_VtnQgHwLJam&export=download
+
+
+مدخل عملي 
+
+1fAj0pOvNKoun7ONyD_Tt1R6TOfPtZV-V
+
+https://drive.google.com/u/0/uc?id=1fAj0pOvNKoun7ONyD_Tt1R6TOfPtZV-V&export=download
+
+
+ورشات 
+
+1euq18yNj-9EcvlgLeUMT_wR-DbFhJhXR
+
+https://drive.google.com/u/0/uc?id=1euq18yNj-9EcvlgLeUMT_wR-DbFhJhXR&export=download
+
+
+محاضرات كيميا 
+
+1cVMmkCnWn5FpvpvkLtYfjiqSG1xS8RYP
+
+https://drive.google.com/u/0/uc?id=1cVMmkCnWn5FpvpvkLtYfjiqSG1xS8RYP&export=download
+
+
+كتب كيميا
+
+1cUspAis-1bymu-rH14yLkV-dPRvk4rKu
+
+https://drive.google.com/u/0/uc?id=1cUspAis-1bymu-rH14yLkV-dPRvk4rKu&export=download
+
+
+دورات كيميا
+
+1X7sfUN2-SORNsgKb9-3mo1XnrUtMhho6
+
+https://drive.google.com/u/0/uc?id=1X7sfUN2-SORNsgKb9-3mo1XnrUtMhho6&export=download
+
+
+مخبر كيميا 
+
+1cW4cplqXNxt-oYaiSH1kwHgtI5pbt652
+
+https://drive.google.com/u/0/uc?id=1cW4cplqXNxt-oYaiSH1kwHgtI5pbt652&export=download
+
+
+ملاحق انكليزي٢
+
+1cNHubsKtBpPbqwvqTHm96r2z_-5lN-hO
+
+https://drive.google.com/u/0/uc?id=1cNHubsKtBpPbqwvqTHm96r2z_-5lN-hO&export=download
+
+
+دورات انكليزي
+
+1Vwo4YQ8i3ME-uY6TS2BhHuNhsiuuCJu8
+
+https://drive.google.com/u/0/uc?id=1Vwo4YQ8i3ME-uY6TS2BhHuNhsiuuCJu8&export=download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

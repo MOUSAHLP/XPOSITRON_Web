@@ -1,0 +1,68 @@
+.post{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 5px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.post .information{
+    display: flex;
+    width: 100%;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.post .information span{}
+.post .information .type{
+    background-color: #10cab7;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.post .text{    padding: 20px;
+    direction: rtl;
+    font-size: 18px;
+}
+.post .images{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow-x: scroll;
+    height: 300px;
+    width: 100%;
+}
+.post .images img{
+    height: 100%;
+    width: 50%;
+    margin: 0 10px;
+}
+
+.post .action{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-content: space-around;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.post .action a{
+    text-decoration: none;
+    color: white;
+    flex-basis: 43%;
+    font-size: 24px;
+    background-color: #10cab7;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
